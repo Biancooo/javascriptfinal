@@ -1,0 +1,662 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Buzo Titular 2024",
+        "imagen": "./img/buzos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Buzo Suplente 2024",
+        "imagen": "./img/buzos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 50000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Buzo Suplente 2da Version 2024",
+        "imagen": "./img/buzos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 50000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Buzo Prematch 2024",
+        "imagen": "./img/buzos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Buzo de Entrenamiento 2023",
+        "imagen": "./img/buzos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 35000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Campera RC 2024",
+        "imagen": "./img/buzos/06.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 65000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Campera RC 2024 Oscuro",
+        "imagen": "./img/buzos/07.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 55000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "Campera Racing Club Avellaneda 2024",
+        "imagen": "./img/buzos/08.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 25000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-09",
+        "titulo": "Campera de Entrenamiento 2024",
+        "imagen": "./img/buzos/09.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 65000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "abrigo-10",
+        "titulo": "Campera de Director Tecnico 2023",
+        "imagen": "./img/buzos/10.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 55000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Titular 2024",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 70000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Suplente 2024",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 60000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Tercera 2024",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 60000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Prematch 2024",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 55000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Arquero Verde 2024",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 50000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Retro 1967",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 100000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Brillara Kit 2023",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 45000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Suplente 2023",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 35000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-09",
+        "titulo": "Camiseta Suplente 2024",
+        "imagen": "./img/camisetas/09.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 55000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "camiseta-10",
+        "titulo": "Camiseta Tercera 2024",
+        "imagen": "./img/camisetas/10.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 50000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-01",
+        "titulo": "Chomba Giorgio Redaelli Celeste 2024",
+        "imagen": "./img/chombas/01.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 45000,
+        "distribucion": "Giorgio Redaelli"
+    },
+    {
+        "id": "chomba-02",
+        "titulo": "Chomba Giorgio Redaelli Blanca 2024",
+        "imagen": "./img/chombas/02.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 40000,
+        "distribucion": "Giorgio Redaelli"
+    },
+    {
+        "id": "chomba-03",
+        "titulo": "Chomba Racing 2024",
+        "imagen": "./img/chombas/03.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 50000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-04",
+        "titulo": "Chomba Director Tecnico Oscuro 2023",
+        "imagen": "./img/chombas/04.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 65000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-05",
+        "titulo": "Chomba Titular 2024",
+        "imagen": "./img/chombas/05.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 55000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-06",
+        "titulo": "Chomba Titular 2022",
+        "imagen": "./img/chombas/06.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 25000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-07",
+        "titulo": "Chomba Titular 2019",
+        "imagen": "./img/chombas/07.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 20000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-08",
+        "titulo": "Chomba Titular 2018",
+        "imagen": "./img/chombas/08.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 15000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-09",
+        "titulo": "Chomba Azul Oscuro RC 2019",
+        "imagen": "./img/chombas/09.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 20000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "chomba-10",
+        "titulo": "Chomba Preentrenamiento 2024",
+        "imagen": "./img/chombas/10.jpg",
+        "categoria": {
+            "nombre": "Chombas",
+            "id": "chombas"
+        },
+        "precio": 120000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Titular 2024",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Kiricocho 2024",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 35000,
+        "distribucion": "Kiricocho"
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Entrenamiento 2024",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 40000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Oscuro RC 2024",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 30000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Entrenamiento 2da Version 2024",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 40000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Pantalón Geografico 2022",
+        "imagen": "./img/pantalones/06.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 30000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Pantalón Titular 2da Version 2024",
+        "imagen": "./img/pantalones/07.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 45000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Pantalón Entrenamiento 2da Version 2022",
+        "imagen": "./img/pantalones/08.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Pantalón RC 2022",
+        "imagen": "./img/pantalones/09.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 20000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "pantalon-10",
+        "titulo": "Pantalón Kappa Blanco 2022",
+        "imagen": "./img/pantalones/10.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 30000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-01",
+        "titulo": "Media Arquero 2024 Verde",
+        "imagen": "./img/medias/01.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 5000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-02",
+        "titulo": "Media Brillara Kit 2023",
+        "imagen": "./img/medias/02.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 10000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-03",
+        "titulo": "Media Arquero 2024 Purpura",
+        "imagen": "./img/medias/03.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 5000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-04",
+        "titulo": "Media Jugador 2023",
+        "imagen": "./img/medias/04.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 5000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-05",
+        "titulo": "Media Arquero 2024 Azul",
+        "imagen": "./img/medias/05.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 10000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-06",
+        "titulo": "Media Arquero 2023 Verde",
+        "imagen": "./img/medias/06.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 5000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-07",
+        "titulo": "Media Arquero 2023 Amarillo",
+        "imagen": "./img/medias/07.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 3500,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-08",
+        "titulo": "Media Arquero 2023 Purpura",
+        "imagen": "./img/medias/08.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 3500,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-09",
+        "titulo": "Media Arquero 2023 Azul",
+        "imagen": "./img/medias/09.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 5000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "media-10",
+        "titulo": "Media Arquero 2023 Oscuro",
+        "imagen": "./img/medias/10.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 4500,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "ojota-01",
+        "titulo": "Ojota Titular 2024",
+        "imagen": "./img/ojotas/01.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 25000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-02",
+        "titulo": "Ojota Suplente 2024",
+        "imagen": "./img/ojotas/02.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 20000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-03",
+        "titulo": "Ojota Titular 2da Version 2024",
+        "imagen": "./img/ojotas/03.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 30000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-04",
+        "titulo": "Ojota Peluche Celeste",
+        "imagen": "./img/ojotas/04.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 35000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "ojota-05",
+        "titulo": "Ojota Peluche Oscuro",
+        "imagen": "./img/ojotas/05.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 35000,
+        "distribucion": "Kappa"
+    },
+    {
+        "id": "ojota-06",
+        "titulo": "Ojota Racing Brillante",
+        "imagen": "./img/ojotas/06.png",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 40000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-07",
+        "titulo": "Ojota Titular Kids",
+        "imagen": "./img/ojotas/07.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 20000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-08",
+        "titulo": "Ojota Combo Titular+Suplente 2024",
+        "imagen": "./img/ojotas/08.jpg",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 45000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-09",
+        "titulo": "Ojota Logo Racing 2021",
+        "imagen": "./img/ojotas/09.png",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 25000,
+        "distribucion": "Bagunza"
+    },
+    {
+        "id": "ojota-10",
+        "titulo": "Ojota Oscuro 2019",
+        "imagen": "./img/ojotas/10.png",
+        "categoria": {
+            "nombre": "Ojotas",
+            "id": "ojotas"
+        },
+        "precio": 15000,
+        "distribucion": "Kappa"
+    }
+]
